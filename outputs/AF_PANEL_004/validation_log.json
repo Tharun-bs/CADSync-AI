@@ -1,0 +1,16 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [],
+  "ai": {
+    "anomaly_score": 0.03420561243203657,
+    "anomaly_flag": false,
+    "manufacturability_risk": 0,
+    "estimated_cost": 33.66
+  },
+  "optimization": {
+    "Length": 188.8,
+    "Width": 118.4,
+    "Hole_Spacing": 20.16
+  }
+}
